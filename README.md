@@ -26,14 +26,6 @@ The dataset used for training and evaluation is a collection of labeled SMS mess
 - Cross-validation techniques are employed to ensure robustness and generalization of the models.
 - Hyperparameter tuning is performed to optimize model performance.
 
-## Results
-- The best performing model is selected based on evaluation metrics.
-- Performance metrics on the test set:
-  - Accuracy: [insert accuracy]
-  - Precision: [insert precision]
-  - Recall: [insert recall]
-  - F1-score: [insert F1-score]
-
 ## Usage
 1. **Data Preparation**: Ensure the dataset is in the appropriate format (e.g., CSV) and contains labeled messages.
 2. **Model Training**: Run the provided scripts or Jupyter notebooks to train the model on the dataset.
