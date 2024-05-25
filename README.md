@@ -1,5 +1,5 @@
 
-# Spam Spam Classifier
+# SMS Spam Classifier
 
 ## Overview
 This project aims to develop a machine learning model for detecting spam messages. With the increasing amount of unsolicited and potentially harmful messages, it's crucial to have an efficient system in place to filter out such content. This project leverages natural language processing (NLP) techniques and machine learning algorithms to classify messages as spam or non-spam.
